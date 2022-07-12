@@ -1,0 +1,10 @@
+name: NpcgamemodeGUI
+main: com.mcloude.main.Main
+version: 1.0
+author: AllGet(won), won0, 291ms
+api-version: 1.13
+depend:
+- PlayerNPC
+commands:
+  ngui:
+    permission: ngui.command

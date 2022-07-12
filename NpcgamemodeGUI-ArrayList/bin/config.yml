@@ -1,0 +1,14 @@
+  # 이 플러그인은 GNU General Public License v3.0 라이선스를 사용합니다. https://www.gnu.org/licenses/gpl-3.0.html
+  #설정입니다. 원하면 수정하면 됨.
+  # License는 다음과 같습니다.
+  # 이 플러그인은 GNU General Public License v3.0 라이선스를 사용합니다.
+  # https://www.gnu.org/licenses/gpl-3.0.html
+  # 
+설정:
+  # 이 플러그인은 GNU General Public License v3.0 라이선스를 사용합니다. License는 다음과 같습니다.
+  # https://www.gnu.org/licenses/gpl-3.0.html
+    접두사: §7[§6 NPC §7]§f
+    좌표:
+      엑스: -49
+      와이: 87
+      제트: 30
